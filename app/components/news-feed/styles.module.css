@@ -1,0 +1,29 @@
+.newsCard {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+.newsTitle {
+  margin: 0 0 10px 0;
+  font-size: 1.2em;
+  color: #2e009a;
+  font-family: math;
+}
+
+.newsDate {
+  color: #666;
+  font-size: 0.9em;
+  margin-top: 10px;
+}
+
+.newsLink {
+  color:darkcyan;
+}
+
+.newsLink:hover {
+  color: rgb(3, 79, 79);
+  cursor: pointer;
+  text-decoration: underline;
+}
