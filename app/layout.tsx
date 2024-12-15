@@ -6,7 +6,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>News API Demo</title>
+        <title>Crypto News Aggregator Application</title>
         <meta name="description" content="Crypto News Aggregator Application" />
       </head>
       <body>
