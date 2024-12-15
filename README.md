@@ -58,7 +58,11 @@ crypto-news-aggregator/
 │   └── page.tsx                 # Main page component
 ├── public/                      # Static assets
 ├── types/                       # TypeScript type definitions
-│   └── index.ts
+│   ├── cache.ts
+│   ├── crypto.ts
+│   ├── env.d.ts
+│   ├── index.ts
+│ 	└── news.ts
 ├── .env.example                # Example environment variables
 ├── .env.local                  # Environment variables (gitignored)
 ├── .eslintrc.json              # ESLint configuration
